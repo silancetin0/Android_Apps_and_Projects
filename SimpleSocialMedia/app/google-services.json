@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "214103916112",
+    "project_id": "simplesocialmedia-7ba15",
+    "storage_bucket": "simplesocialmedia-7ba15.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214103916112:android:950d679a88a8690e28db55",
+        "android_client_info": {
+          "package_name": "com.deneme.simplesocialmedia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCBsSyPFLZ1QhG8WqAeiF8z448NtdrPfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
